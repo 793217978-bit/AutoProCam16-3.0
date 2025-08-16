@@ -1,0 +1,1 @@
+// CameraManager.swift placeholder v2

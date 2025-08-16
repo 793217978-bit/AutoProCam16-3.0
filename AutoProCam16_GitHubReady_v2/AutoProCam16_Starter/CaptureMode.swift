@@ -1,0 +1,1 @@
+// CaptureMode.swift placeholder v2
